@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor em formação, com foco em back-end e especial interesse no ecossistema Java. Tenho sólida base em lógica de programação, algoritmos e desenvolvimento web, além de experiência em pequenos sistemas, miniaplicações Java e projetos acadêmicos.
+Sou um desenvolvedor em formação, com foco em back-end e especial interesse no ecossistema Java. Tenho sólida base em lógica de programação, algoritmos e desenvolvimento web, além de experiência em miniaplicações Java e projetos acadêmicos.
 
 Sou disciplinado, motivado e estou em constante evolução — sempre buscando aprender novas tecnologias e me tornar cada vez melhor como profissional.
 
