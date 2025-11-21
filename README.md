@@ -6,7 +6,7 @@
 
 ## Sobre mim
 🎯 **Desenvolvedor Back-End | Java**  
-📍 Brasil 
+📍 Brasil
 📚 Engenharia de Software (2024–2028)
 
 ## 🚀 Sobre mim
