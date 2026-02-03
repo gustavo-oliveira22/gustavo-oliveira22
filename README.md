@@ -1,5 +1,3 @@
-# Olá, eu sou o Gustavo Oliveira
-
 🎯 Desenvolvedor **Full Stack em formação**, focado em construir aplicações web completas, com código limpo, boas práticas e aprendizado contínuo.
 
 Atualmente estou em fase de consolidação de base em **JavaScript**, evoluindo para **Front-end moderno com React** e **Back-end com Node.js e banco de dados**, com objetivo de conquistar meu **primeiro estágio em desenvolvimento de software**.
