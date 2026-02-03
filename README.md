@@ -61,5 +61,5 @@ Conquistar meu **primeiro estágio como desenvolvedor**, onde eu possa:
 ---
 
 ## 📫 Contato
-- 📧 Email: **seuemail@email.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/seu-linkedin**
+- 📧 Email: **guustavo.ol22@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/gustavo-oliveira22/**
